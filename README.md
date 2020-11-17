@@ -1,2 +1,2 @@
 # wiel
-Kubernetes operator to track 3F deployment
+Kubernete utility to track 3F deployment

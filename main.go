@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	"package/pannoi"
+	"github.com/pannoi/wiel/package/pannoi"
 )
 
 const version = "v0.0.1"
